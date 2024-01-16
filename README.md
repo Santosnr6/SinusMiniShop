@@ -70,11 +70,6 @@ I denna övning kommer du få öva på:
 |h3 |Forrest|
 |p|Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, dolores.|
 
-<details>
-    <summary>Tips</summary>
-    använd el.insertAdjecentHTML('beforeend',...)
-</details>
-
 ## Events
 **14.** Lyssna efter ett klick på logotypen (```.logo```). När den registrerar ett klick skall du console.log:a "found you!";
 
